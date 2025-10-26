@@ -557,7 +557,7 @@ img {
 }
 .socials {
   display: flex;
-  gap: 10px;
+  gap: 12px;
 }
 .socials a {
   width: 28px;
@@ -566,8 +566,6 @@ img {
   display: grid;
   place-items: center;
   text-decoration: none;
-  color: #0f1b23;
-  background: #e8edf3;
   font-size: 12px;
   font-weight: 800;
 }
