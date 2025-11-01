@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Home",
+    "team": "Team",
+    "publications": "Publications",
+    "contacts": "Contacts",
+    "getInTouch": "Get in touch"
+  },
+  "hero": {
+    "badge": "Strategic Advisory for Kazakhstan Entrepreneurs",
+    "title": "BUSINESS KEÑES",
+    "kicker": "Guiding Innovation<br/>Beyond Borders.",
+    "desc": "BUSINESS KEÑES helps founders find investors, explore new markets, and influence government policy.",
+    "cta": "Book a Consultation"
+  },
+  "about": {
+    "title": "About us",
+    "lead": "We advise ambitious start-ups and experienced entrepreneurs in Kazakhstan who have created a unique product or service and are seeking new markets, potential investors, as well as state support and promotion of their interests in government policies."
+  },
+  "principles": {
+    "eyebrow": "Our principles",
+    "quote": "“Trust and reputation worth more than money;<br/>Others can do it - so can we;<br/>There is enough space under the sun for everyone!”"
+  },
+  "team": {
+    "title": "Our Team",
+    "aray": {
+      "name": "Ms. Aray Kasabekova",
+      "role": "Director",
+      "bio": "A trade negotiator with 20 years of experience in Kazakhstan’s Government, she led WTO accession talks and represented the country in negotiations for the Eurasian Economic Union and the EU–Kazakhstan Partnership Agreement. From 2016 to 2019, she served at Kazakhstan’s Permanent Mission in Geneva, representing the nation at the WTO, UNCTAD, and ISO."
+    },
+    "roman": {
+      "name": "Mr. Roman Romashkin",
+      "role": "Economist",
+      "bio": "An expert with 20 years of experience in trade, economic integration, food security, and agriculture. He has taught and conducted research at Moscow State University for over 15 years and participated in projects with the World Bank, OECD, EU, OXFAM, IFPRI, ICTSD, and UNCTAD/WTO."
+    },
+    "saltanat": {
+      "name": "Ms. Saltanat Jambylbek",
+      "role": "Lawyer",
+      "bio": "A lawyer with 15 years of experience in corporate, labor, and business law, advising clients on corporate and regulatory matters in Kazakhstan. He has extensive expertise in contracts and legal documentation, with experience at KazTransGas, Nazarbayev University, and the Astana International Financial Center."
+    },
+    "asiya": {
+      "name": "Ms. Asiya Ashigaliyeva",
+      "role": "International Lawyer, Trade negotiator",
+      "bio": "With 18 years in Kazakhstan’s Government, she specializes in trade policy, lawmaking, and international negotiations. She contributed to WTO accession, major trade and investment agreements, and represents Kazakhstan in the OECD Investment Committee."
+    }
+  },
+  "blog": {
+    "title": "Blog and Articles",
+    "readMore": "Read more",
+    "card1": {
+      "title": "BUSINESS KEÑES joins USAID TPSP Initiative",
+      "text": "BUSINESS KEÑES is included into the list of consultants of the USAID Central Asia Trade Program’s TPSP Initiative"
+    },
+    "card2": {
+      "title": "Kazakhstan Oil & Fat Industry Report",
+      "text": "The Status, Challenges, and Prospects of Kazakhstan's Oil and Fat Industry in the Context of Eurasian Integration"
+    },
+    "card3": {
+      "title": "Eurasian Agro-Logistics and Transport Corridors",
+      "text": "International Transport Corridors and Prospects for the Export-Import Agro-Logistics Ecosystem in Russia"
+    }
+  },
+  "footer": {
+    "lead": "Built to evolve – flexible solutions for unstoppable business growth."
+  },
+  "form": {
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your Email",
+    "emailAria": "Email",
+    "messageLabel": "Message:",
+    "messagePlaceholder": "Message",
+    "messageAria": "Message",
+    "submit": "Get in touch"
+  },
+  "misc": {
+    "scrollDown": "Scroll down"
+  }
+}

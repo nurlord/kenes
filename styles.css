@@ -103,6 +103,45 @@ img {
   margin-right: 20px;
   height: 44px;
 }
+.lang-switch {
+  display: inline-flex;
+  gap: 6px;
+  padding: 4px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  margin-left: 8px;
+}
+
+.lang-btn {
+  min-width: 42px;
+  padding: 6px 10px;
+  font-weight: 800;
+  font-size: 12px;
+  line-height: 1;
+  color: #e8edf3;
+  background: transparent;
+  border: 0;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.lang-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.lang-btn.is-active {
+  background: #fff;
+  color: #0f1b23;
+  box-shadow: var(--shadow);
+}
+
+/* Keep switch visible on mobile */
+@media (max-width: 930px) {
+  .lang-switch {
+    margin-left: auto;
+  } /* since .nav-wrap hides on mobile */
+}
 .nav {
   display: flex;
   gap: 24px;
