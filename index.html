@@ -57,6 +57,9 @@
         <div class="hero__media" aria-hidden="true">
           <img src="img/bayterek.png" alt="" />
         </div>
+        <div class="scroll-down" aria-hidden="true">
+          <span>↓</span>
+        </div>
       </section>
 
       <!-- About -->
@@ -251,12 +254,28 @@
             Built to evolve – flexible solutions for unstoppable business
             growth.
           </p>
-          <form class="subscribe" action="#" id="contact" method="post">
+          <form
+            class="subscribe"
+            id="contact"
+            action="https://formspree.io/f/myzbbver"
+            method="POST"
+          >
+            Email
             <input
+              name="email"
+              spellcheck="false"
               type="email"
               placeholder="Enter your Email"
               aria-label="Email"
             />
+            <label>
+              Message:
+              <textarea
+                name="message"
+                spellcheck="false"
+                placeholder="Message"
+              ></textarea>
+            </label>
             <button class="btn" type="submit">Get in touch</button>
           </form>
           <div class="socials" aria-label="Social links">
