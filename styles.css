@@ -470,7 +470,7 @@ img {
 }
 .panel-light #services .h2 {margin-bottom:12px;}
 .panel-light #services .lead {margin: 0 auto 12px;}
-.panel-light #services .sublead {max-width:70ch;margin: 0 auto 18px;color:#425466;font-size:18px;line-height:1.6;}
+.panel-light #services .sublead {max-width:70ch;margin: 20px auto 18px;color:#425466;font-size:18px;line-height:1.6;}
 
 @media (max-width: 680px){
   .services {gap:16px;}
