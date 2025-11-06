@@ -121,7 +121,7 @@ img {
 }
 .brand img {
   margin-right: 20px;
-  height: 44px;
+  height: 56px;
 }
 .lang-switch {
   display: inline-flex;
@@ -205,6 +205,15 @@ img {
 }
 .btn:active {
   transform: none;
+}
+.hero-cta {
+  display: inline-block;
+  text-decoration: none;
+  max-width: 300px;
+  text-align: center;
+}
+.hero-cta:hover {
+  text-decoration: none;
 }
 
 /* Mobile header */
@@ -390,8 +399,8 @@ img {
 /* Services */
 .services {
   display: grid;
-  gap: 36px;
-  margin: 48px 0 32px;
+  gap: 24px;
+  margin: 28px 0 24px;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
 .service-block {
@@ -413,12 +422,11 @@ img {
   display: flex;
   align-items: center;
   gap: 10px;
-  margin: 0;
+  margin: 0 0 4px;
   font-weight: 700;
-  font-size: 14px;
-  letter-spacing: .04em;
-  text-transform: uppercase;
-  color: #425466;
+  font-size: 15px;
+  letter-spacing: -.01em;
+  color: #183243;
 }
 .service-icon {
   width: 32px;
@@ -458,8 +466,8 @@ img {
   background: linear-gradient(135deg,#1d3c53,#225b80);
 }
 .panel-light #services .h2 {margin-bottom:12px;}
-.panel-light #services .lead {font-size:22px;line-height:1.5;}
-.panel-light #services p.center {max-width:70ch;margin:0 auto 14px;}
+.panel-light #services .lead {margin: 0 auto 12px;}
+.panel-light #services .sublead {max-width:70ch;margin:0 auto 18px;color:#425466;font-size:18px;line-height:1.6;}
 
 @media (max-width: 680px){
   .services {grid-template-columns: 1fr; gap:24px;}
@@ -667,7 +675,7 @@ img {
   align-items: start;
 }
 .footer-logo {
-  height: 44px;
+  height: 100px;
   margin-bottom: 16px;
 }
 .footer-nav {

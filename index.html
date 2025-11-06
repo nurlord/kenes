@@ -3,6 +3,15 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="BUSINESS KEÑES — consulting partner for Kazakhstan businesses. Strategic advisory for investors, exporters and companies. WTO, EAEU expertise, market entry, due diligence." />
+    <meta name="keywords" content="Kazakhstan consulting, business advisory, trade policy, WTO, EAEU, investment, export strategy, due diligence" />
+    <meta property="og:title" content="BUSINESS KEÑES — Strategic Advisory for Businesses and Investors" />
+    <meta property="og:description" content="Consulting partner helping Kazakhstan businesses reach the next level. Expertise in trade policy, market entry, investment and export strategy." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://businesskenes.kz/" />
+    <meta property="og:image" content="https://businesskenes.kz/img/bayterek.jpg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <script src="https://unpkg.com/embla-carousel/embla-carousel.umd.js"></script>
     <link
       href="https://fonts.googleapis.com/css2?family=Manrope:wght@300..800&display=swap"
@@ -10,11 +19,30 @@
     />
     <link rel="stylesheet" href="reset.css" />
     <link rel="stylesheet" href="styles.css" />
-    <title>BUSINESS KEÑES</title>
+    <title>BUSINESS KEÑES — Strategic Advisory for Businesses and Investors</title>
 
     <script src="https://unpkg.com/i18next@23.11.5/dist/umd/i18next.js"></script>
     <script src="https://unpkg.com/i18next-http-backend@2.6.2/i18nextHttpBackend.min.js"></script>
     <script src="https://unpkg.com/i18next-browser-languagedetector@7.2.0/i18nextBrowserLanguageDetector.min.js"></script>
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "BUSINESS KEÑES",
+      "description": "Strategic advisory and consulting for businesses and investors in Kazakhstan",
+      "url": "https://businesskenes.kz/",
+      "logo": "https://businesskenes.kz/img/logo.svg",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "KZ"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/business-kenes"
+      ]
+    }
+    </script>
   </head>
   <body>
     <!-- Header (transparent, over hero) -->
@@ -76,16 +104,13 @@
           <h1 class="h1" data-i18n="hero.title"></h1>
           <p class="kicker" data-i18n="hero.kicker"></p>
           <p class="desc" data-i18n="hero.desc"></p>
-          <button
-            class="btn"
-            style="max-width: 300px; padding: 8px 16px; border-radius: 4px"
-          >
-            <a href="#contact" data-i18n="hero.cta"></a>
-          </button>
+          <a href="#contact" class="btn hero-cta">
+            <span data-i18n="hero.cta"></span>
+          </a>
         </div>
 
         <div class="hero__media" aria-hidden="true">
-          <img src="img/bayterek.jpg" alt="" />
+          <img src="img/bayterek.jpg" alt="Bayterek Tower - symbol of Kazakhstan" loading="eager" />
         </div>
         <div class="scroll-down" aria-hidden="true">
           <span>↓</span>
@@ -121,7 +146,7 @@
                 <!-- Slides (ordered as requested) -->
                 <div class="embla__slide person">
                   <div class="person__photo">
-                    <img src="img/aray.png" alt="Ms. Aray Kasabekova" />
+                    <img src="img/aray.png" alt="Ms. Aray Kasabekova" loading="lazy" />
                   </div>
                   <h3 class="person__name" data-i18n="team.aray.name"></h3>
                   <span class="person__role" data-i18n="team.aray.role"></span>
@@ -130,7 +155,7 @@
 
                 <div class="embla__slide person">
                   <div class="person__photo">
-                    <img src="img/marius.jpg" alt="Mr. Marius Bordalba" />
+                    <img src="img/marius.jpg" alt="Mr. Marius Bordalba" loading="lazy" />
                   </div>
                   <h3 class="person__name" data-i18n="team.marius.name"></h3>
                   <span class="person__role" data-i18n="team.marius.role"></span>
@@ -139,7 +164,7 @@
 
                 <div class="embla__slide person">
                   <div class="person__photo">
-                    <img src="img/roman.png" alt="Mr. Roman Romashkin" />
+                    <img src="img/roman.png" alt="Mr. Roman Romashkin" loading="lazy" />
                   </div>
                   <h3 class="person__name" data-i18n="team.roman.name"></h3>
                   <span class="person__role" data-i18n="team.roman.role"></span>
@@ -148,7 +173,7 @@
 
                 <div class="embla__slide person">
                   <div class="person__photo">
-                    <img src="img/saltanat.png" alt="Ms. Saltanat Jambylbek" />
+                    <img src="img/saltanat.png" alt="Ms. Saltanat Jambylbek" loading="lazy" />
                   </div>
                   <h3 class="person__name" data-i18n="team.saltanat.name"></h3>
                   <span class="person__role" data-i18n="team.saltanat.role"></span>
@@ -157,7 +182,7 @@
 
                 <div class="embla__slide person">
                   <div class="person__photo">
-                    <img src="img/Darkhan.jpg" alt="Mr. Darkhan Seitkazin" />
+                    <img src="img/Darkhan.jpg" alt="Mr. Darkhan Seitkazin" loading="lazy" />
                   </div>
                   <h3 class="person__name" data-i18n="team.darkhan.name"></h3>
                   <span class="person__role" data-i18n="team.darkhan.role"></span>
@@ -166,7 +191,7 @@
 
                 <div class="embla__slide person">
                   <div class="person__photo">
-                    <img src="img/aizhan.jpeg" alt="Ms. Aizhan Kasabekova" />
+                    <img src="img/aizhan.jpeg" alt="Ms. Aizhan Kasabekova" loading="lazy" />
                   </div>
                   <h3 class="person__name" data-i18n="team.aizhan.name"></h3>
                   <span class="person__role" data-i18n="team.aizhan.role"></span>
@@ -175,7 +200,7 @@
 
                 <div class="embla__slide person">
                   <div class="person__photo">
-                    <img src="img/Madi.jpg" alt="Mr. Madi Kassabekov" />
+                    <img src="img/Madi.jpg" alt="Mr. Madi Kassabekov" loading="lazy" />
                   </div>
                   <h3 class="person__name" data-i18n="team.madi.name"></h3>
                   <span class="person__role" data-i18n="team.madi.role"></span>
@@ -204,9 +229,9 @@
       <!-- Services -->
       <section class="panel-light" id="services">
         <div class="container">
-          <h2 class="h2 center" data-i18n="services.title"></h2>
+          <h2 class="center" data-i18n="services.title"></h2>
           <p class="lead center" data-i18n="services.intro"></p>
-          <p class="center" data-i18n="services.note"></p>
+          <p class="sublead center" data-i18n="services.note"></p>
 
           <div class="services">
             <div class="service-block">
@@ -311,7 +336,7 @@
           <h2 class="h2" data-i18n="blog.title"></h2>
           <div class="blog-grid">
             <article class="card">
-              <div class="card__media"><img src="img/img1.png" alt="" /></div>
+              <div class="card__media"><img src="img/img1.png" alt="USAID TPSP Initiative" loading="lazy" /></div>
               <h3 class="card__title" data-i18n="blog.card1.title"></h3>
               <p class="card__text" data-i18n="blog.card1.text"></p>
               <div class="card__meta">
@@ -321,7 +346,7 @@
             </article>
 
             <article class="card">
-              <div class="card__media"><img src="img/img2.png" alt="" /></div>
+              <div class="card__media"><img src="img/img2.png" alt="Kazakhstan Oil & Fat Industry" loading="lazy" /></div>
               <h3 class="card__title" data-i18n="blog.card2.title"></h3>
               <p class="card__text" data-i18n="blog.card2.text"></p>
               <div class="card__meta">
@@ -331,7 +356,7 @@
             </article>
 
             <article class="card">
-              <div class="card__media"><img src="img/img3.png" alt="" /></div>
+              <div class="card__media"><img src="img/img3.png" alt="Eurasian Agro-Logistics" loading="lazy" /></div>
               <h3 class="card__title" data-i18n="blog.card3.title"></h3>
               <p class="card__text" data-i18n="blog.card3.text"></p>
               <div class="card__meta">
@@ -351,8 +376,7 @@
           <img
             class="footer-logo"
             src="img/logo.svg"
-            style="height: 100px"
-            alt="BUSINESS KEÑES"
+            alt="BUSINESS KEÑES logo"
           />
           <ul class="footer-nav">
             <li><a href="#" data-i18n="nav.home"></a></li>
