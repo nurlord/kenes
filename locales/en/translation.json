@@ -2,15 +2,16 @@
   "nav": {
     "home": "Home",
     "team": "Team",
+    "services": "Services",
     "publications": "Publications",
     "contacts": "Contacts",
     "getInTouch": "Get in touch"
   },
   "hero": {
-    "badge": "Strategic Advisory for Kazakhstan Entrepreneurs",
+    "badge": "Independent Insights • Global Standards",
     "title": "BUSINESS KEÑES",
-    "kicker": "Guiding Innovation<br/>Beyond Borders.",
-    "desc": "BUSINESS KEÑES helps founders find investors, explore new markets, and influence government policy.",
+    "kicker": "Strategic Advisory for Businesses and Investors",
+    "desc": "We help founders find investors, explore new markets, and influence government policy.",
     "cta": "Book a Consultation"
   },
   "about": {
@@ -18,15 +19,20 @@
     "lead": "We advise ambitious start-ups and experienced entrepreneurs in Kazakhstan who have created a unique product or service and are seeking new markets, potential investors, as well as state support and promotion of their interests in government policies."
   },
   "principles": {
-    "eyebrow": "Our principles",
-    "quote": "“Trust and reputation worth more than money;<br/>Others can do it - so can we;<br/>There is enough space under the sun for everyone!”"
+    "eyebrow": "Our principle",
+    "quote": "Trust and Reputation Worth More than Money"
   },
   "team": {
     "title": "Our Team",
     "aray": {
       "name": "Ms. Aray Kasabekova",
       "role": "Director",
-      "bio": "A trade negotiator with 20 years of experience in Kazakhstan’s Government, she led WTO accession talks and represented the country in negotiations for the Eurasian Economic Union and the EU–Kazakhstan Partnership Agreement. From 2016 to 2019, she served at Kazakhstan’s Permanent Mission in Geneva, representing the nation at the WTO, UNCTAD, and ISO."
+      "bio": "Trade negotiator with 20 years in Kazakhstan’s Government. Led WTO accession and key regional/economic agreement negotiations; represented Kazakhstan at WTO, UNCTAD and ISO in Geneva (2016–2019)."
+    },
+    "marius": {
+      "name": "Mr. Marius Bordalba",
+      "role": "International Trade Expert",
+      "bio": "Spanish lawyer with 27+ years advising companies and governments on trade and customs (WTO Secretariat alumnus). Expertise: trade remedies, sanctions, customs origin/classification, arbitration (ICC), forming consortia and drafting technical offers."
     },
     "roman": {
       "name": "Mr. Roman Romashkin",
@@ -38,10 +44,20 @@
       "role": "Lawyer",
       "bio": "A lawyer with 15 years of experience in corporate, labor, and business law, advising clients on corporate and regulatory matters in Kazakhstan. He has extensive expertise in contracts and legal documentation, with experience at KazTransGas, Nazarbayev University, and the Astana International Financial Center."
     },
-    "asiya": {
-      "name": "Ms. Asiya Ashigaliyeva",
-      "role": "International Lawyer, Trade negotiator",
-      "bio": "With 18 years in Kazakhstan’s Government, she specializes in trade policy, lawmaking, and international negotiations. She contributed to WTO accession, major trade and investment agreements, and represents Kazakhstan in the OECD Investment Committee."
+    "darkhan": {
+      "name": "Mr. Darkhan Seitkazin",
+      "role": "Innovation & Program Manager",
+      "bio": "Innovation specialist with 10 years experience in World Bank innovation projects, technology commercialization and policy design. Experienced in market promotion of tech projects; fluent in English and German."
+    },
+    "aizhan": {
+      "name": "Ms. Aizhan Kasabekova",
+      "role": "Accounting Specialist",
+      "bio": "Accountant with 19 years in major private & public companies (telecom, aviation, construction). Served as chief and deputy chief accountant across multiple national enterprises and audit firms."
+    },
+    "madi": {
+      "name": "Mr. Madi Kassabekov",
+      "role": "Logistics & Freight Forwarding Expert",
+      "bio": "Expert with 10+ years in multimodal transport strategy (Expo Dubai 2020, KTZ Express, major oil & logistics firms). Asia-Pacific winner, runner-up FIATA Young International Freight Forwarder of the Year 2015."
     }
   },
   "blog": {
@@ -74,5 +90,60 @@
   },
   "misc": {
     "scrollDown": "Scroll down"
+  },
+  "services": {
+    "title": "Our Services",
+    "intro": "BUSINESS KEÑES is a consulting partner that helps your business reach the next level of growth.",
+    "note": "We provide both one-off consultations and ongoing (retainer) support:",
+    "groups": {
+      "forCompanies": {
+        "title": "For Kazakhstani companies",
+        "items": [
+          "Promoting interests and negotiating with government agencies",
+          "Protecting company interests at the Eurasian Economic Commission in the context of EAEU and WTO membership",
+          "Business negotiations and correspondence with foreign partners; arranging overseas trips to find partners"
+        ]
+      },
+      "funding": {
+        "title": "Finding investors, obtaining financing and grants",
+        "items": [
+          "Analysis of Kazakhstan's and foreign markets",
+          "Business strategy development",
+          "Support in searching for potential investors",
+          "Preparation of investor documentation"
+        ]
+      },
+      "forInvestors": {
+        "title": "For potential investors",
+        "items": [
+          "Analysis of Kazakhstan’s market and preliminary due diligence",
+          "Organization of business events and trips across Kazakhstan",
+          "Representation in Kazakhstan and interaction with government agencies",
+          "Development of market-entry and growth strategies"
+        ]
+      },
+      "forExporters": {
+        "title": "For exporters",
+        "items": [
+          "Market analysis and export strategy",
+          "Protection of trade interests and cooperation with government bodies",
+          "Certification and trademark registration abroad",
+          "Search for foreign partners",
+          "Logistics and calculation of transport costs",
+          "Supply-chain and route optimization"
+        ]
+      },
+      "other": {
+        "title": "Other services for your business",
+        "items": [
+          "Logistics services: multimodal, international",
+          "Accounting: tax and statistical reporting, financial reporting, e-invoices, temporary storage warehouses",
+          "Legal support for international contracts",
+          "Preparation of tendering documentation",
+          "Preparation of documents for obtaining loans"
+        ]
+      }
+    },
+    "closing": "We are your bridge to doing business in Kazakhstan."
   }
 }
