@@ -8,7 +8,7 @@
     "getInTouch": "Get in touch"
   },
   "hero": {
-    "badge": "Independent Insights • Global Standards",
+    "badge": "Trade Policy Matters for Central Asia",
     "title": "BUSINESS KEÑES",
     "kicker": "Strategic Advisory for Businesses and Investors",
     "desc": "We help founders find investors, explore new markets, and influence government policy.",
@@ -24,40 +24,44 @@
   },
   "team": {
     "title": "Our Team",
+    "actions": {
+      "readMore": "Read more",
+      "readLess": "Show less"
+    },
     "aray": {
       "name": "Ms. Aray Kassabekova",
       "role": "Director",
-      "bio": "Is a trade negotiator with 20 years of experience working for the Government of Kazakhstan in foreign trade and economic relations. She coordinated and led negotiations on Kazakhstan's accession to the World Trade Organization (WTO), represented Kazakhstan in the negotiations on formation of the Eurasian Economic Union, Enhanced Partnership and Cooperation Agreement between the EU and Kazakhstan. From 2016 to 2019, she worked at the Permanent Mission of Kazakhstan in Geneva, where she represented Kazakhstan at the WTO, the UN Conference on Trade and Development (UNCTAD), and the International Organization for Standardization (ISO)."
+      "bio": "Is a trade negotiator with 20 years of experience working for the Government of Kazakhstan in foreign trade and economic relations. She coordinated and led negotiations on Kazakhstan's accession to the World Trade Organization (WTO), represented Kazakhstan in the negotiations on formation of the Eurasian Economic Union, Enhanced Partnership and Cooperation Agreement between the EU and Kazakhstan. From 2016 to 2019, she worked at the Permanent Mission of Kazakhstan in Geneva, where she represented Kazakhstan at the WTO, the UN Conference on Trade and Development (UNCTAD), and the International Organization for Standardization (ISO). Education: World Trade Institute, Master of International Economics and Law (magna cum laude), Bern, 2005; Taraz State University, Accounting and Audit, Taraz, 1998."
     },
     "marius": {
       "name": "Mr. Marius Bordalba",
       "role": "International Trade Expert",
-      "bio": "Marius Bordalba is a Spanish lawyer with more than 27 years of working experience in advising companies and governments on international trade and customs matters. Marius has previously worked in two renowned law firms and in the WTO Secretariat. Since 2007, he has worked extensively in the CIS countries – in particular Kazakhstan, Azerbaijan, Uzbekistan and Turkmenistan – and Ukraine. He has been arbitrator of a trade-related dispute between two Latin American countries. Currently, Marius advises companies in various jurisdictions on trade-related and customs matters, such as trade remedy investigations, sanctions and embargoes, customs classification and origin of goods, as well as improving market access. He also advises clients in arbitration cases before the International Chamber of Commerce. Finally, he facilitates the forming of consortia of companies to bid for projects and advises on suitable experts to implement those projects. He also drafts documents such as technical offers and project reports."
+      "bio": "Marius Bordalba is a Spanish lawyer with more than 27 years of working experience in advising companies and governments on international trade and customs matters. Marius has previously worked in two renowned law firms and in the WTO Secretariat. Since 2007, he has worked extensively in the CIS countries – in particular Kazakhstan, Azerbaijan, Uzbekistan and Turkmenistan – and Ukraine. He has been arbitrator of a trade-related dispute between two Latin American countries. Currently, Marius advises companies in various jurisdictions on trade-related and customs matters, such as trade remedy investigations, sanctions and embargoes, customs classification and origin of goods, as well as improving market access. He also advises clients in arbitration cases before the International Chamber of Commerce. Finally, he facilitates the forming of consortia of companies to bid for projects and advises on suitable experts to implement those projects. He also drafts documents such as technical offers and project reports. Education: LL.M in EC and WTO Law, Amsterdam School of International Relations, 1997; Degree in Law, Universitat de Lleida, 1995."
     },
     "roman": {
       "name": "Mr. Roman Romashkin",
       "role": "Economist",
-      "bio": "Expert with 20 years of experience in international and regional trade, economic integration, food security, agriculture and agro-industrial policy. For more than fifteen years he has been engaged in lecturing and research activities at Moscow State University. He participated in research projects of the World Bank, OECD, EU, OXFAM, International Food Policy Research Institute, International Centre for Trade and Sustainable Development (ICTSD), UNCTAD/WTO International Trade Center. In 2012-2018, he worked at the Eurasian Economic Commission, dealing with the preparation of integration documents and the implementation of a coordinated agro-industrial policy in the EAEU. He ensured cooperation with the UN FAO on food security, sustainable agricultural development and digitalization of the agricultural sector."
+      "bio": "Expert with 20 years of experience in international and regional trade, economic integration, food security, agriculture and agro-industrial policy. For more than fifteen years he has been engaged in lecturing and research activities at Moscow State University. He participated in research projects of the World Bank, OECD, EU, OXFAM, International Food Policy Research Institute, International Centre for Trade and Sustainable Development (ICTSD), UNCTAD/WTO International Trade Center. In 2012-2018, he worked at the Eurasian Economic Commission, dealing with the preparation of integration documents and the implementation of a coordinated agro-industrial policy in the EAEU. He ensured cooperation with the UN FAO on food security, sustainable agricultural development and digitalization of the agricultural sector. Education: Moscow State University, Faculty of Economics (Graduate Program, 2001; Bachelor and Master in Economic Policies, 1999)."
     },
     "saltanat": {
       "name": "Ms. Saltanat Jambylbek",
       "role": "Lawyer",
-      "bio": "Qualified lawyer with 15 years of experience in the areas of corporate, labor and business law. Advises clients on corporate and regulatory issues on doing business in Kazakhstan. He possesses broad expertise in matters related to contracts and drafting of legal documents. Experience in KazTransGas, Nazarbayev University, International Financial Center Astana."
+      "bio": "Qualified lawyer with 15 years of experience in the areas of corporate, labor and business law. Advises clients on corporate and regulatory issues on doing business in Kazakhstan. He possesses broad expertise in matters related to contracts and drafting of legal documents. Experience in KazTransGas, Nazarbayev University, International Financial Center Astana. Education: Chicago-Kent College of Law, LL.M (magna cum laude), USA, 2019; International Business Academy, MBA, Almaty, 2007; International Kazakh-Turkish University, Bachelor of Jurisprudence, Taraz, 2003."
     },
     "darkhan": {
       "name": "Mr. Darkhan Seitkazin",
       "role": "Innovation & Program Manager",
-      "bio": "Specialist in innovation, certified manager in the field of technology commercialization. He has 10 years of experience in the development of innovations in Kazakhstan in the World Bank projects, in particular the development and design of policy documents to support and stimulate innovation. He has experience in market promotion of innovative projects. Fluent in English (IELTS 6.5) and German (DSH 2, DSD II, Goethe-Zertifikat C1)."
+      "bio": "Specialist in innovation, certified manager in the field of technology commercialization. He has 10 years of experience in the development of innovations in Kazakhstan in the World Bank projects, in particular the development and design of policy documents to support and stimulate innovation. He has experience in market promotion of innovative projects. Fluent in English (IELTS 6.5) and German (DSH 2, DSD II, Goethe-Zertifikat C1). Education: Nürtingen-Geislingen University of Applied Sciences, MBA, Germany, 2012; L.N. Gumilyov Eurasian National University, Bachelor of International Relations, Astana, 2008."
     },
     "aizhan": {
       "name": "Ms. Aizhan Kassabekova",
       "role": "Accounting Specialist",
-      "bio": "Accountant with 19 years of experience in large private and public companies. She worked as a chief accountant, deputy chief accountant in such companies as China Xinxing Construction and Development Company LLP, Kazakhtelecom, Berkut State Air Company, Kazakh National University of Arts State University, \"Kazgiproneftetrans\" Engineering Company, \"Tende\" Auditing Company."
+      "bio": "Accountant with 19 years of experience in large private and public companies. She worked as a chief accountant, deputy chief accountant in such companies as China Xinxing Construction and Development Company LLP, Kazakhtelecom, Berkut State Air Company, Kazakh National University of Arts State University, \"Kazgiproneftetrans\" Engineering Company, \"Tende\" Auditing Company. Education: Taraz State University, Accounting and Audit, 2001; multiple professional certificates covering taxation, IFRS, quality management (ISO 9001:2008) and financial analysis."
     },
     "madi": {
       "name": "Mr. Madi Kassabekov",
       "role": "Logistics & Freight Forwarding Expert",
-      "bio": "Expert in logistics and freight forwarding with more than 10 years of experience in supporting multimodal transportation and development of transport strategies in large companies and projects, including Bureau Expo Dubai 2020, PTC Holding, Premium Oil Trans, national company KTZ Express, national company Astana EXPO – 2017, Synergy Trans, Lomer Point Bridge. Winner for Asia and Pacific, runner up of the FIATA Young International Freight Forwarder of the Year 2015."
+      "bio": "Expert in logistics and freight forwarding with more than 10 years of experience in supporting multimodal transportation and development of transport strategies in large companies and projects, including Bureau Expo Dubai 2020, PTC Holding, Premium Oil Trans, national company KTZ Express, national company Astana EXPO – 2017, Synergy Trans, Lomer Point Bridge. Winner for Asia and Pacific, runner up of the FIATA Young International Freight Forwarder of the Year 2015. Education: Kazakh National Technical University, Mechanical Engineering (Bachelor 2011, Master 2013); FIATA Higher Diploma in Supply Chain Management, 2018; FIATA Diploma in Freight Forwarding, 2014."
     }
   },
   "blog": {
@@ -93,7 +97,7 @@
   },
   "services": {
     "title": "Our Services",
-    "intro": "BUSINESS KEÑES is a consulting partner that helps your business reach the next level of growth.",
+    "intro": "BUSINESS KEÑES is a consulting partner that helps your business reach the next level of growth",
     "note": "We provide both one-off consultations and ongoing (retainer) support:",
     "groups": {
       "forCompanies": {
